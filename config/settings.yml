@@ -1,0 +1,4 @@
+plugins:
+  critique_ratio_enabled:
+    default: true
+    client: true
